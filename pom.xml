@@ -10,6 +10,12 @@
   <name>1</name>
   <url>http://maven.apache.org</url>
 
+  <scm>
+	<connection>scm:git:git@github.com:JonathanFrigon/Laboratoire3JF.git</connection>
+	<url>scm:git:git@github.com:JonathanFrigon/Laboratoire3JF.git</url>
+	<developerConnection>scm:git:git@github.com:JonathanFrigon/Laboratoire3JF.git</developerConnection>
+  </scm>
+
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
   </properties>
