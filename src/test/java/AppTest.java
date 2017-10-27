@@ -33,6 +33,8 @@ public class AppTest
      */
     public void testApp()
     {
-        assertTrue( true );
+    	int monnaie = 20;
+    	monnaie = App.hasard(monnaie);
+        assertEquals(40, monnaie);
     }
 }
